@@ -1,0 +1,4 @@
+D:\ExerciseC#\Homework5November\obj\Debug\netcoreapp3.1\Homework5November.csprojAssemblyReference.cache
+D:\ExerciseC#\Homework5November\obj\Debug\netcoreapp3.1\Homework5November.AssemblyInfoInputs.cache
+D:\ExerciseC#\Homework5November\obj\Debug\netcoreapp3.1\Homework5November.AssemblyInfo.cs
+D:\ExerciseC#\Homework5November\obj\Debug\netcoreapp3.1\Homework5November.csproj.CoreCompileInputs.cache
