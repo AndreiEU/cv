@@ -1,0 +1,13 @@
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.csprojAssemblyReference.cache
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.AssemblyInfoInputs.cache
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.AssemblyInfo.cs
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.exe
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.deps.json
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.runtimeconfig.json
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.runtimeconfig.dev.json
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.dll
+D:\ExerciseC#\Divisibility\bin\Debug\netcoreapp3.1\Divisibility.pdb
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.dll
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.pdb
+D:\ExerciseC#\Divisibility\obj\Debug\netcoreapp3.1\Divisibility.genruntimeconfig.cache
