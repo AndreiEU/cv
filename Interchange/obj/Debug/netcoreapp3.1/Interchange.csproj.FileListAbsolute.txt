@@ -1,0 +1,13 @@
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.exe
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.deps.json
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.runtimeconfig.json
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.runtimeconfig.dev.json
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.dll
+D:\ExerciseC#\Interchange\bin\Debug\netcoreapp3.1\Interchange.pdb
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.csprojAssemblyReference.cache
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.AssemblyInfoInputs.cache
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.AssemblyInfo.cs
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.dll
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.pdb
+D:\ExerciseC#\Interchange\obj\Debug\netcoreapp3.1\Interchange.genruntimeconfig.cache
