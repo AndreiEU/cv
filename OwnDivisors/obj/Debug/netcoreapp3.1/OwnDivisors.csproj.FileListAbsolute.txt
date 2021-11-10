@@ -1,0 +1,13 @@
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.csprojAssemblyReference.cache
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.AssemblyInfoInputs.cache
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.AssemblyInfo.cs
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.exe
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.deps.json
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.runtimeconfig.json
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.runtimeconfig.dev.json
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.dll
+D:\ExerciseC#\OwnDivisors\bin\Debug\netcoreapp3.1\OwnDivisors.pdb
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.dll
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.pdb
+D:\ExerciseC#\OwnDivisors\obj\Debug\netcoreapp3.1\OwnDivisors.genruntimeconfig.cache
