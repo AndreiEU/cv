@@ -1,0 +1,13 @@
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.exe
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.deps.json
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.runtimeconfig.json
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.runtimeconfig.dev.json
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.dll
+D:\ExerciseC#\SecondsConversion\bin\Debug\netcoreapp3.1\SecondsConversion.pdb
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.csprojAssemblyReference.cache
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.AssemblyInfoInputs.cache
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.AssemblyInfo.cs
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.dll
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.pdb
+D:\ExerciseC#\SecondsConversion\obj\Debug\netcoreapp3.1\SecondsConversion.genruntimeconfig.cache
