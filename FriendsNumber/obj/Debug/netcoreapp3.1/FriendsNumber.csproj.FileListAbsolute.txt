@@ -1,0 +1,13 @@
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.exe
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.deps.json
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.runtimeconfig.json
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.runtimeconfig.dev.json
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.dll
+D:\ExerciseC#\FriendsNumber\bin\Debug\netcoreapp3.1\FriendsNumber.pdb
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.csprojAssemblyReference.cache
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.AssemblyInfoInputs.cache
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.AssemblyInfo.cs
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.dll
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.pdb
+D:\ExerciseC#\FriendsNumber\obj\Debug\netcoreapp3.1\FriendsNumber.genruntimeconfig.cache
