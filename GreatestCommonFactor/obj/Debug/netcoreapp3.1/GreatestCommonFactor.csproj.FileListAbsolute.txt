@@ -1,0 +1,13 @@
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.exe
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.deps.json
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.runtimeconfig.json
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.runtimeconfig.dev.json
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.dll
+D:\ExerciseC#\GreatestCommonFactor\bin\Debug\netcoreapp3.1\GreatestCommonFactor.pdb
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.csprojAssemblyReference.cache
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.AssemblyInfoInputs.cache
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.AssemblyInfo.cs
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.csproj.CoreCompileInputs.cache
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.dll
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.pdb
+D:\ExerciseC#\GreatestCommonFactor\obj\Debug\netcoreapp3.1\GreatestCommonFactor.genruntimeconfig.cache
